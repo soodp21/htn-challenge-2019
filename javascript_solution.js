@@ -1,6 +1,7 @@
 const json = require('./tests/challenge.json');
 
 const refineParameters = data => {
+	var test;
   // Write your code here.
   // Remember to call this function to return the formatted json
   // with the json imported at the top of this file
